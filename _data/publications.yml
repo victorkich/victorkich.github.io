@@ -29,7 +29,7 @@ main:
     notes: Early Accept
     code: https://github.com/victorkich/curled-dreamer
     image: ./assets/img/teaser_iccas2.png
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Mc6h_3gWx4oJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF9YrY:AFWwaeYAAAAAZsV7erbSUXV3e1oyoGNFYXC7va0&scisig=AFWwaeYAAAAAZsV7eja4KUHjYYJMXNshLrchRFw&scisf=4&ct=citation&cd=-1&hl=en&authuser=3
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:Mc6h_3gWx4oJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXGGmlM:AFWwaeYAAAAAZsWAglMF7VlsSCZDoGrrexvXkj8&scisig=AFWwaeYAAAAAZsWAgsX8kvzYEvE7-WeyMPfyqSo&scisf=4&ct=citation&cd=-1&hl=en"
 
   - title: Kolmogorov-Arnold Network for Online Reinforcement Learning
     authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Junior Costa de Jesus, Ricardo Bedin Grando, Ayanori Yorozu, Akihisa Ohya
