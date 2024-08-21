@@ -22,4 +22,4 @@ I am M.Eng. student at the University of Tsukuba, specializing in deep reinforce
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
