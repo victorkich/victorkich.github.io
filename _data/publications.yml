@@ -70,7 +70,7 @@ main:
   - title: Parallel Deep Reinforcement Learning for Hybrid Mobile Robots
     authors: Ricardo Grando, Raul Steinmetz, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Rodrigo da Silva Guerra, Paulo L. J. Drews-Jr
     journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
-    notes: Published
+    notes: Early Accept
 
   - title: Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning
     authors: Ricardo Grando, Raul Steinmetz, Victor Augusto Kich, Alisson Henrique Kolling, Pablo Ezequiel Moraes Furik, Junior Costa de Jesus, Bruna de Vargas Guterres, Daniel Fernando Tello Gamarra, Rodrigo da Silva Guerra, Paulo Drews-Jr
@@ -78,6 +78,7 @@ main:
     conference: 20th IEEE International Conference on Automation Science and Engineering <strong>(CASE)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.01952
     notes: Early Accept
+    image: ./assets/img/teaser_case.png
 
   - title: "DoCRL: Double Critic Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition"
     authors: Ricardo B Grando, Junior C De Jesus, Victor Augusto Kich, Alisson H Kolling, Matheus G Mateus, Rodrigo S Guerra, Paulo LJ Drews
@@ -85,6 +86,9 @@ main:
     conference: 2023 Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10333008
     notes: Oral Presentation
+    image: ./assets/img/teaser_lars1.png
+    code: https://github.com/ricardoGrando/DoCRL
+    video: https://www.youtube.com/watch?v=PqTDzsKjA9c
 
   - title: Parallel Distributional Prioritized Deep Reinforcement Learning for Unmanned Aerial Vehicles
     authors: Alisson Henrique Kolling, Victor Augusto Kich, Junior Costa de Jesus, Andressa Cavalcante Da Silva, Ricardo Bedin Grando, Paulo Lilles Jorge Drews, Daniel FT Gamarra
