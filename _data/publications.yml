@@ -102,7 +102,7 @@ main:
   - title: "DoCRL: Double Critic Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition"
     authors: Ricardo B Grando, Junior C De Jesus, Victor Augusto Kich, Alisson H Kolling, Matheus G Mateus, Rodrigo S Guerra, Paulo LJ Drews
     conference_short: LARS
-    conference: 2023 Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
+    conference: Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10333008
     notes: Oral Presentation
     image: ./assets/img/teaser_lars1.png
@@ -113,7 +113,7 @@ main:
   - title: Parallel Distributional Prioritized Deep Reinforcement Learning for Unmanned Aerial Vehicles
     authors: Alisson Henrique Kolling, Victor Augusto Kich, Junior Costa de Jesus, Andressa Cavalcante Da Silva, Ricardo Bedin Grando, Paulo Lilles Jorge Drews, Daniel FT Gamarra
     conference_short: LARS
-    conference: 2023 Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
+    conference: Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10333051
     notes: Oral Presentation
     image: ./assets/img/teaser_lars2.png
@@ -122,7 +122,7 @@ main:
   - title: Enhanced Low-Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots Using Double Deep Reinforcement Learning Techniques
     authors: Linda Dotto de Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Ricardo Bedin Grando, Anselmo Rafael Cukla, Daniel Fernando Tello Gamarra
     conference_short: LARS
-    conference: 2023 Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
+    conference: Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10333028
     notes: Oral Presentation
     video: https://www.youtube.com/watch?v=A29er5CGygw
@@ -151,7 +151,7 @@ main:
 
   - title: Aprendizado por reforço profundo distribucional paralelo para navegação sem mapa de robôs móveis terrestres
     authors: Victor Augusto Kich
-    conference_short: Bachelor's Thesis
+    conference_short: Undergraduate Thesis
     conference: Federal University of Santa Maria Repository, 2023.
     notes: "Undergraduate Thesis, in Portuguese"
     pdf: https://repositorio.ufsm.br/handle/1/28310
