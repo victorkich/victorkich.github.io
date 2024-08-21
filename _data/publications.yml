@@ -74,7 +74,8 @@ main:
 
   - title: Parallel Deep Reinforcement Learning for Hybrid Mobile Robots
     authors: Ricardo Grando, Raul Steinmetz, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Rodrigo da Silva Guerra, Paulo L. J. Drews-Jr
-    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
+    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
+    conference_short: JIRS
     notes: Early Accept
 
   - title: Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning
@@ -118,7 +119,8 @@ main:
 
   - title: "Jubileo: An Immersive Simulation Framework for Social Robot Design"
     authors: Jair Augusto Bottega, Victor Augusto Kich, Junior Costa de Jesus, Raul Steinmetz, Alisson Henrique Kolling, Ricardo Bedin Grando, Rodrigo da Silva Guerra, Daniel Fernando Tello Gamarra
-    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2023.
+    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2023.
+    conference_short: JIRS
     notes: Published
     pdf: https://link.springer.com/article/10.1007/s10846-023-01991-3
     image: ./assets/img/teaser_jint1.png
@@ -128,12 +130,13 @@ main:
 
   - title: "Delta robot control by learning systems: Harnessing the power of deep reinforcement learning algorithms"
     authors: Matheus dos Santos Lima, Victor Augusto Kich, Raul Steinmetz, Daniel Fernando Tello Gamarra
-    journal: Journal of Intelligent \& Fuzzy Systems <strong>(JIFS)</strong>, 2024.
+    conference: Journal of Intelligent \& Fuzzy Systems <strong>(JIFS)</strong>, 2024.
     pdf: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs232795
     notes: Published
     image: ./assets/img/teaser_jifs1.png
     video: https://www.youtube.com/watch?v=bcsaFMdTegg
     code: https://github.com/victorkich/DeltaRobot-DeepRL
+    conference_short: JIFS
     bibtex:
 
   - title: "From Seedling to Harvest: The GrowingSoy Dataset for Weed Detection in Soy Crops via Instance Segmentation"
@@ -149,10 +152,11 @@ main:
 
   - title: Antagonistic Torsion Spiral Springs Variable Stiffness Actuator - ATOSS VSA
     authors: David Roy Richards, Victor Augusto Kich, Rodrigo da Silva Guerra
-    journal: III Brazilian Humanoid Robot Workshop and IV Brazilian Workshop on Service Robotics <strong>(BRAHUR-BRASERO)</strong>, 2020.
+    conference: III Brazilian Humanoid Robot Workshop <strong>(BRAHUR)</strong>, 2020.
     pdf: https://web.archive.org/web/20200815111131id_/http://www.acso.uneb.br/brahurbrasero2020/uploads/Main/BRAHUR__BRASERO_2020_paper_23.pdf
     notes: Oral Presentation
     image: ./assets/img/teaser_brahur.png
+    conference_short: BRAHUR
     bibtex:
 
   - title: Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition
@@ -165,12 +169,13 @@ main:
 
   - title: Soft Actor-Critic for Navigation of Mobile Robots
     authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Ricardo Bedin Grando, Marco Antonio de Souza Leite Cuadros, Daniel Fernando Tello Gamarra
-    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2021.
+    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2021.
     volume: 102
     number: 2
     pages: 1--11
     pdf: https://link.springer.com/article/10.1007/s10846-021-01367-5
     notes: Published
+    conference_short: JIRS
     bibtex:
 
   - title: Deep Reinforcement Learning Using a Low-Dimensional Observation Filter for Visual Complex Video Game Playing
@@ -186,21 +191,23 @@ main:
 
   - title: Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles
     authors: Ricardo Bedin Grando, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Paulo Lilles Jorge Drews-Jr
-    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2022.
+    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2022.
     volume: 104
     number: 2
     pages: 1--14
     pdf: https://link.springer.com/article/10.1007/s10846-021-01568-y
     notes: Published
+    conference_short: JIRS
     bibtex:
 
   - title: Bibliographic Analysis of the Capacity and Applicability of Li-Fi Networks
     authors: Kelvin I. Seibt, Victor Augusto Kich, Gabriel V. Heisler
     editor: Dalai Tang, Joni Zhong, Dalin Zhou
-    journal: Mobile Wireless Middleware, Operating Systems and Applications <strong>(MOBILWARE)</strong>, 2022.
+    conference: Mobile Wireless Middleware, Operating Systems and Applications <strong>(MOBILWARE)</strong>, 2022.
     pages: 33--44
     pdf: https://link.springer.com/chapter/10.1007/978-3-030-98671-1_3
     notes: Oral Presentation
+    conference_short: MOBILWARE
     bibtex:
 
   - title: Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction
@@ -248,15 +255,16 @@ main:
 
   - title: Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots
     authors: Linda D de Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Raul Steinmetz, Emerson C da Silva, Ricardo Bedin Grando, Anselmo Rafael Cukla, Daniel Fernando Tello Gamarra
-    journal: Intelligent Systems Design and Applications <strong>(ISDA)</strong>, 2023.
+    conference: Intelligent Systems Design and Applications <strong>(ISDA)</strong>, 2023.
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-35507-3_16
     notes: Published
+    conference_short: ISDA
     bibtex:
 
   - title: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots
     authors: Victor Augusto Kich
     conference_short: Thesis
-    journal: Federal University of Santa Maria Repository, 2023.
+    conference: Federal University of Santa Maria Repository, 2023.
     notes: "Undergraduate Thesis, in Portuguese. Title in English: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots"
     pdf: https://repositorio.ufsm.br/handle/1/28310
     bibtex:
