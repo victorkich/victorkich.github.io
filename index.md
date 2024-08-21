@@ -10,8 +10,8 @@ I am M.Eng. student at the University of Tsukuba, specializing in deep reinforce
 
 - **Reinforcement Learning:** policy learning, curriculum learning, model-based reinforcement learning
 - **Deep Learning** state representation, world modeling, contrastive learning
-- **Simulation:** high-fidelity simulation, human-robot interation, physics frameworks (gazebo, isaac-lab, unity3d)
-- **Robotics:** terrestrial mobile robot, unmanned aerial vehicle, robot operating system (ROS and ROS2)
+- **Simulation:** high-fidelity simulation, human-robot interation
+- **Robotics:** terrestrial mobile robot, unmanned aerial vehicle, quadruped and bipedal robots
 
 ## News
 
