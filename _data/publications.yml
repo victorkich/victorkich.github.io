@@ -20,3 +20,186 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: Precision and Adaptability of YOLOv5 and YOLOv8 in Dynamic Robotic Environments
+    authors: Victor Augusto Kich, Muhammad A. Muttaqien, Junya Toyama, Ryutaro Miyoshi, Yosuke Ida, Akihisa Ohya, Hisashi Date
+    conference_short: CIS
+    conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2406.00315
+    notes: Accepted
+
+  - title: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots
+    authors: Victor Augusto Kich, Alisson Henrique Kolling, Junior Costa de Jesus, Gabriel Vinicius Heisler, Hiago Jacobs, Jair Augusto Bottega, Andre L. da S. Kelbouscas, Akihisa Ohya, Ricardo Bedin Grando, Paulo L. J. Drews-Jr, Daniel Fernando Tello Gamarra
+    conference_short: ICCAS
+    conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2408.05744
+    notes: Accepted
+
+  - title: "CURLing the Dream: Contrastive Representations for World Modeling in Reinforcement Learning"
+    authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Junior Costa de Jesus, Ricardo Bedin Grando, Ayanori Yorozu, Akihisa Ohya
+    conference_short: ICCAS
+    conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2408.05781
+    notes: Accepted
+
+  - title: Kolmogorov-Arnold Network for Online Reinforcement Learning
+    authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Junior Costa de Jesus, Ricardo Bedin Grando, Ayanori Yorozu, Akihisa Ohya
+    conference_short: ICCAS
+    conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2408.04841
+    notes: Accepted
+
+  - title: Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations
+    authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Ricardo Grando, Ayanori Yorozu, Akihisa Ohya
+    conference_short: RO-MAN
+    conference: 33rd IEEE International Conference on Robot and Human Interactive Communication <strong>(RO-MAN)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2405.16818
+    notes: Accepted
+
+  - title: Parallel Deep Reinforcement Learning for Hybrid Mobile Robots
+    authors: Ricardo Grando, Raul Steinmetz, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Rodrigo da Silva Guerra, Paulo L. J. Drews-Jr
+    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
+    notes: Accepted
+
+  - title: Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning
+    authors: Ricardo Grando, Raul Steinmetz, Victor Augusto Kich, Alisson Henrique Kolling, Pablo Ezequiel Moraes Furik, Junior Costa de Jesus, Bruna de Vargas Guterres, Daniel Fernando Tello Gamarra, Rodrigo da Silva Guerra, Paulo Drews-Jr
+    conference_short: CASE
+    conference: 20th IEEE International Conference on Automation Science and Engineering <strong>(CASE)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2406.01952
+    notes: Accepted
+
+  - title: "DoCRL: Double Critic Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition"
+    authors: Ricardo B Grando, Junior C De Jesus, Victor Augusto Kich, Alisson H Kolling, Matheus G Mateus, Rodrigo S Guerra, Paulo LJ Drews
+    conference_short: LARS
+    conference: 2023 Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10333008
+    notes: Accepted
+
+  - title: Parallel Distributional Prioritized Deep Reinforcement Learning for Unmanned Aerial Vehicles
+    authors: Alisson Henrique Kolling, Victor Augusto Kich, Junior Costa de Jesus, Andressa Cavalcante Da Silva, Ricardo Bedin Grando, Paulo Lilles Jorge Drews, Daniel FT Gamarra
+    conference_short: LARS
+    conference: 2023 Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10333051
+    notes: Accepted
+
+  - title: Enhanced Low-Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots Using Double Deep Reinforcement Learning Techniques
+    authors: Linda Dotto de Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Ricardo Bedin Grando, Anselmo Rafael Cukla, Daniel Fernando Tello Gamarra
+    conference_short: LARS
+    conference: 2023 Latin American Robotics Symposium <strong>(LARS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10333028
+    notes: Accepted
+
+  - title: "Jubileo: An Immersive Simulation Framework for Social Robot Design"
+    authors: Jair Augusto Bottega, Victor Augusto Kich, Junior Costa de Jesus, Raul Steinmetz, Alisson Henrique Kolling, Ricardo Bedin Grando, Rodrigo da Silva Guerra, Daniel Fernando Tello Gamarra
+    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2023.
+    notes: Accepted
+    pdf: https://link.springer.com/article/10.1007/s10846-023-01991-3
+
+  - title: "Delta robot control by learning systems: Harnessing the power of deep reinforcement learning algorithms"
+    authors: Matheus dos Santos Lima, Victor Augusto Kich, Raul Steinmetz, Daniel Fernando Tello Gamarra
+    journal: Journal of Intelligent \& Fuzzy Systems <strong>(JIFS)</strong>, 2024.
+    pdf: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs232795
+    notes: Accepted
+
+  - title: "From Seedling to Harvest: The GrowingSoy Dataset for Weed Detection in Soy Crops via Instance Segmentation"
+    authors: Raul Steinmetz, Victor Augusto Kich, Henrique Krever, Joao Davi Rigo Mazzarolo, Ricardo Grando, Vinicius Marini, Celio Trois, Ard Nieuwenhuizen
+    conference_short: CIS
+    conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2406.00313
+    notes: Accepted
+
+  - title: Antagonistic Torsion Spiral Springs Variable Stiffness Actuator - ATOSS VSA
+    authors: David Roy Richards, Victor Augusto Kich, Rodrigo da Silva Guerra
+    journal: III Brazilian Humanoid Robot Workshop and IV Brazilian Workshop on Service Robotics <strong>(BRAHUR-BRASERO)</strong>, 2020.
+    pdf: https://web.archive.org/web/20200815111131id_/http://www.acso.uneb.br/brahurbrasero2020/uploads/Main/BRAHUR__BRASERO_2020_paper_23.pdf
+    notes: Published
+
+  - title: Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition
+    authors: Ricardo B Grando, Junior C de Jesus, Victor Augusto Kich, Alisson H Kolling, Nicolas P Bortoluzzi, Pedro M Pinheiro, Armando A Neto, Paulo LJ Drews
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9561188
+    notes: Published
+
+  - title: Soft Actor-Critic for Navigation of Mobile Robots
+    authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Ricardo Bedin Grando, Marco Antonio de Souza Leite Cuadros, Daniel Fernando Tello Gamarra
+    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2021.
+    volume: 102
+    number: 2
+    pages: 1--11
+    pdf: https://link.springer.com/article/10.1007/s10846-021-01367-5
+    notes: Published
+
+  - title: Deep Reinforcement Learning Using a Low-Dimensional Observation Filter for Visual Complex Video Game Playing
+    authors: Victor Augusto Kich, Junior Costa de Jesus, Ricardo Bedin Grando, Alisson Henrique Kolling, Gabriel Vinicius Heisler, Rodrigo da Silva Guerra
+    conference_short: SBGames
+    conference: Brazilian Symposium on Computer Games and Digital Entertainment <strong>(SBGames)</strong>, 2021.
+    pdf: https://www.sbgames.org/proceedings2021/ComputacaoShort/218372.pdf
+    notes: Published
+
+  - title: Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles
+    authors: Ricardo Bedin Grando, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Paulo Lilles Jorge Drews-Jr
+    journal: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2022.
+    volume: 104
+    number: 2
+    pages: 1--14
+    pdf: https://link.springer.com/article/10.1007/s10846-021-01568-y
+    notes: Published
+
+  - title: Bibliographic Analysis of the Capacity and Applicability of Li-Fi Networks
+    authors: Kelvin I. Seibt, Victor Augusto Kich, Gabriel V. Heisler
+    editor: Dalai Tang, Joni Zhong, Dalin Zhou
+    journal: Mobile Wireless Middleware, Operating Systems and Applications <strong>(MOBILWARE)</strong>, 2022.
+    pages: 33--44
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-98671-1_3
+    notes: Published
+
+  - title: Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction
+    authors: Jair Augusto Bottega, Raul Steinmetz, Alisson Henrique Kolling, Victor Augusto Kich, Junior Costa de Jesus, Ricardo Bedin Grando, Daniel Fernando Tello Gamarra
+    conference_short: LARS
+    conference: Latin American Robotics Symposium <strong>(LARS)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9996025
+    notes: Published
+
+  - title: "Depth-cuprl: Depth-imaged Contrastive Unsupervised Prioritized Representations in Reinforcement Learning for Mapless Navigation of Unmanned Aerial Vehicles"
+    authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Ricardo Bedin Grando, Rodrigo da Silva Guerra, Paulo Lilles Jorge Drews
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2022.
+    pages: 10579--10586
+    pdf: https://ieeexplore.ieee.org/abstract/document/9982161
+    notes: Published
+
+  - title: Deterministic and Stochastic Analysis of Deep Reinforcement Learning for Low Dimensional Sensing-based Navigation of Mobile Robots
+    authors: Ricardo Bedin Grando, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Pedro M Pinheiro, Rodrigo da Silva Guerra, Paulo Lilles Jorge Drews
+    conference_short: LARS
+    conference: Latin American Robotics Symposium <strong>(LARS)</strong>, 2022.
+    pages: 193--198
+    pdf: https://ieeexplore.ieee.org/abstract/document/9995792
+    notes: Published
+
+  - title: Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Deep Reinforcement Learning Through Environmental Generalization
+    authors: Ricardo Bedin Grando, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Pedro M Pinheiro, Rodrigo da Silva Guerra, Paulo Lilles Jorge Drews
+    conference_short: LARS
+    conference: Latin American Robotics Symposium <strong>(LARS)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9995813
+    notes: Published
+
+  - title: "Jubileo: An Open-Source Robot and Framework for Research in Human-Robot Social Interaction"
+    authors: Jair A Bottega, Victor Augusto Kich, Alisson Henrique Kolling, Jardel Dyonisio, Pedro Corçaque, Rodrigo da Silva Guerra, Daniel Fernando Tello Gamarra
+    conference_short: Humanoids
+    conference: IEEE-RAS 21st International Conference on Humanoid Robots <strong>(Humanoids)</strong>, 2022.
+    pages: 149--154
+    pdf: https://ieeexplore.ieee.org/abstract/document/10000224
+    notes: Published
+
+  - title: Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots
+    authors: Linda D de Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Raul Steinmetz, Emerson C da Silva, Ricardo Bedin Grando, Anselmo Rafael Cukla, Daniel Fernando Tello Gamarra
+    journal: Intelligent Systems Design and Applications <strong>(ISDA)</strong>, 2023.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-35507-3_16
+    notes: Published
+
+  - title: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots
+    authors: Victor Augusto Kich
+    journal: Federal University of Santa Maria Repository, 2023.
+    notes: "Undergraduate Thesis, in Portuguese. Title in English: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots"
+    pdf: https://repositorio.ufsm.br/handle/1/28310

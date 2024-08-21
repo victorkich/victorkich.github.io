@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at the University of Tsukuba, specializing in deep reinforcement learning, computer vision, and robotics. My research focuses on developing advanced algorithms for state representation learning and their applications in autonomous systems. I am passionate about exploring the intersection of artificial intelligence and robotics, aiming to contribute to innovative research that advances the capabilities of intelligent agents.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Reinforcement Learning:** Policy learning, state representation, contrastive learning
+- **Simulation:** image recognition, image generation, video captioning
+- **Robotics:** meta-learning, incremental learning, transfer learning
 
 ## News
 
