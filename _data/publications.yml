@@ -168,6 +168,8 @@ main:
     image: ./assets/img/teaser_jint3.png
     notes: Published
     conference_short: JIRS
+    video: https://www.youtube.com/watch?v=Kf5T2SgyiRs
+    code: https://github.com/ricardoGrando/hydrone_deep_rl_jint
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_S11UUhs4OgJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXGU5kk:AFWwaeYAAAAAZsWS_klKxYplfUJmB75u6PljWfg&scisig=AFWwaeYAAAAAZsWS_pKpchnP4B6He92J_D8mzTI&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: Bibliographic Analysis of the Capacity and Applicability of Li-Fi Networks
@@ -254,6 +256,7 @@ main:
     image: ./assets/img/teaser_jint2.png
     notes: Published
     conference_short: JIRS
+    code: https://github.com/dranaju/project
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Iu89axknarcJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXGVnmY:AFWwaeYAAAAAZsWThmZHahC_wglZmHj6gfCQOAM&scisig=AFWwaeYAAAAAZsWThpRu0ZIEFfsk7J7WuQiicoE&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: Deep Reinforcement Learning Using a Low-Dimensional Observation Filter for Visual Complex Video Game Playing
