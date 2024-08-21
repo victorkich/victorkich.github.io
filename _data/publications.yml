@@ -43,7 +43,7 @@ main:
 
   - title: Image-based Mapless Navigation of a Hybrid Aerial-Underwater Vehicle using Prioritized Deep Reinforcement Learning
     authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Ricardo Bedin Grando, Rodrigo da Silva Guerra, Paulo Lilles Jorge Drews
-    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
+    conference: Journal of Intelligent & Robotic Systems <strong>(JIRS)</strong>, 2024.
     conference_short: JIRS
     notes: Early Accept
     code: https://github.com/dranaju/cuprl_navigation
@@ -51,7 +51,7 @@ main:
 
   - title: Parallel Deep Reinforcement Learning for Hybrid Mobile Robots
     authors: Ricardo Grando, Raul Steinmetz, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Rodrigo da Silva Guerra, Paulo L. J. Drews-Jr
-    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
+    conference: Journal of Intelligent & Robotic Systems <strong>(JIRS)</strong>, 2024.
     conference_short: JIRS
     notes: Early Accept
     video: https://www.youtube.com/watch?v=mI5DAcXI988
@@ -90,7 +90,7 @@ main:
 
   - title: "Delta robot control by learning systems: Harnessing the power of deep reinforcement learning algorithms"
     authors: Matheus dos Santos Lima, Victor Augusto Kich, Raul Steinmetz, Daniel Fernando Tello Gamarra
-    conference: Journal of Intelligent \& Fuzzy Systems <strong>(JIFS)</strong>, 2024.
+    conference: Journal of Intelligent & Fuzzy Systems <strong>(JIFS)</strong>, 2024.
     pdf: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs232795
     notes: Published
     image: ./assets/img/teaser_jifs1.png
@@ -131,7 +131,7 @@ main:
 
   - title: "Jubileo: An Immersive Simulation Framework for Social Robot Design"
     authors: Jair Augusto Bottega, Victor Augusto Kich, Junior Costa de Jesus, Raul Steinmetz, Alisson Henrique Kolling, Ricardo Bedin Grando, Rodrigo da Silva Guerra, Daniel Fernando Tello Gamarra
-    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2023.
+    conference: Journal of Intelligent & Robotic Systems <strong>(JIRS)</strong>, 2023.
     conference_short: JIRS
     notes: Published
     pdf: https://link.springer.com/article/10.1007/s10846-023-01991-3
@@ -160,7 +160,7 @@ main:
 
   - title: Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles
     authors: Ricardo Bedin Grando, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Paulo Lilles Jorge Drews-Jr
-    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2022.
+    conference: Journal of Intelligent & Robotic Systems <strong>(JIRS)</strong>, 2022.
     volume: 104
     number: 2
     pages: 1--14
@@ -246,7 +246,7 @@ main:
 
   - title: Soft Actor-Critic for Navigation of Mobile Robots
     authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Ricardo Bedin Grando, Marco Antonio de Souza Leite Cuadros, Daniel Fernando Tello Gamarra
-    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2021.
+    conference: Journal of Intelligent & Robotic Systems <strong>(JIRS)</strong>, 2021.
     volume: 102
     number: 2
     pages: 1--11
