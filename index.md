@@ -8,7 +8,7 @@ I am M.Eng. student at the University of Tsukuba, specializing in deep reinforce
 
 ## Research Interests
 
-- **Reinforcement Learning:** policy learning, curriculum learning, model-based reinforcement learning
+- **Reinforcement Learning:** policy learning, model-based, curriculum learning
 - **Deep Learning** state representation, world modeling, contrastive learning
 - **Simulation:** high-fidelity simulation, human-robot interation
 - **Robotics:** terrestrial mobile robot, unmanned aerial vehicle, quadruped and bipedal robots
