@@ -176,7 +176,7 @@ main:
     pdf: https://link.springer.com/article/10.1007/s10846-021-01367-5
     notes: Published
     conference_short: JIRS
-    bibtex:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Iu89axknarcJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXFo_mE:AFWwaeYAAAAAZsVu5mF3IIsYp4-YkgUZTcnsQMs&scisig=AFWwaeYAAAAAZsVu5kiRCuH291QxVvNnnw8RfPI&scisf=4&ct=citation&cd=-1&hl=en&authuser=3&scfhb=1
 
   - title: Deep Reinforcement Learning Using a Low-Dimensional Observation Filter for Visual Complex Video Game Playing
     authors: Victor Augusto Kich, Junior Costa de Jesus, Ricardo Bedin Grando, Alisson Henrique Kolling, Gabriel Vinicius Heisler, Rodrigo da Silva Guerra
