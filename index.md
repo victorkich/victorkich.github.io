@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am M.Eng. student at the University of Tsukuba, specializing in deep reinforcement learning, computer vision, and robotics. My research focuses on developing advanced algorithms for state representation learning and their applications in autonomous systems. I am passionate about exploring the intersection of artificial intelligence and robotics, aiming to contribute to innovative research that advances the capabilities of intelligent agents.
+I am an M.Eng. student at the University of Tsukuba, specializing in deep reinforcement learning, computer vision, and robotics. Under the supervision of [Prof. Akihisa Ohya](https://www.cs.tsukuba.ac.jp/~ohya/index_eng.html) and co-supervision of [Prof. Ayano Yorozu](https://www.cs.tsukuba.ac.jp/~yorozu/index_en.html), my research focuses on developing advanced algorithms for state representation learning and their applications in autonomous systems. I am passionate about exploring the intersection of artificial intelligence and robotics, aiming to contribute to innovative research that advances the capabilities of intelligent agents.
 
 ## Research Interests
 
