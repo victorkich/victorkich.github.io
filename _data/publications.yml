@@ -56,6 +56,9 @@ main:
     conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
     conference_short: JIRS
     notes: Early Accept
+    video: https://www.youtube.com/watch?v=mI5DAcXI988
+    code: https://github.com/versusai/Parallel-RL-for-Hybrid-Mobile-Robots
+    image: ./assets/img/teaser_jint4.png
 
   - title: Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning
     authors: Ricardo Grando, Raul Steinmetz, Victor Augusto Kich, Alisson Henrique Kolling, Pablo Ezequiel Moraes Furik, Junior Costa de Jesus, Bruna de Vargas Guterres, Daniel Fernando Tello Gamarra, Rodrigo da Silva Guerra, Paulo Drews-Jr
@@ -260,7 +263,7 @@ main:
     authors: Victor Augusto Kich
     conference_short: Thesis
     conference: Federal University of Santa Maria Repository, 2023.
-    notes: "Undergraduate Thesis, in Portuguese. Title in English: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots"
+    notes: "Undergraduate Thesis, in Portuguese"
     pdf: https://repositorio.ufsm.br/handle/1/28310
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rdqIfjmpnCoJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6Vbo:AFWwaeYAAAAAZsV8TbqLDJ_OKvOk-Wirh3yfASc&scisig=AFWwaeYAAAAAZsV8TV_cUrpNMa9nm-ljn83o07o&scisf=4&ct=citation&cd=-1&hl=en&authuser=3
     image: ./assets/img/teaser_tcc.png
