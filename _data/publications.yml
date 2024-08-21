@@ -1,14 +1,14 @@
 main:
 
-  - title: Precision and Adaptability of YOLOv5 and YOLOv8 in Dynamic Robotic Environments
-    authors: Victor Augusto Kich, Muhammad A. Muttaqien, Junya Toyama, Ryutaro Miyoshi, Yosuke Ida, Akihisa Ohya, Hisashi Date
-    conference_short: CIS
-    conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2406.00315
-    notes: Oral Presentation
-    image: ./assets/img/teaser_cisram1.png
-    code: https://github.com/victorkich/BGBox-TsukubaChallenge
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GYlyZ5DQ4WAJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF9QRM:AFWwaeYAAAAAZsV7WRO7uYra2eD9p_EwIm1JUqQ&scisig=AFWwaeYAAAAAZsV7WQdH2S2ERUotzqb-MMWLh9U&scisf=4&ct=citation&cd=-1&hl=en
+  - title: Kolmogorov-Arnold Network for Online Reinforcement Learning
+    authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Junior Costa de Jesus, Ricardo Bedin Grando, Ayanori Yorozu, Akihisa Ohya
+    conference_short: ICCAS
+    conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2408.04841
+    notes: Early Accept
+    image: ./assets/img/teaser_iccas3.png
+    code: https://github.com/victorkich/Kolmogorov-PPO
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:eU9drjEibU4J:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF93fo:AFWwaeYAAAAAZsV7xfqGy0g4DvwNDerotRSdVs8&scisig=AFWwaeYAAAAAZsV7xZx8EaGcXRb4-L6w5N1kSSY&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots
     authors: Victor Augusto Kich, Alisson Henrique Kolling, Junior Costa de Jesus, Gabriel Vinicius Heisler, Hiago Jacobs, Jair Augusto Bottega, Andre L. da S. Kelbouscas, Akihisa Ohya, Ricardo Bedin Grando, Paulo L. J. Drews-Jr, Daniel Fernando Tello Gamarra
@@ -31,16 +31,6 @@ main:
     image: ./assets/img/teaser_iccas2.png
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Mc6h_3gWx4oJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXGGmlM:AFWwaeYAAAAAZsWAglMF7VlsSCZDoGrrexvXkj8&scisig=AFWwaeYAAAAAZsWAgsX8kvzYEvE7-WeyMPfyqSo&scisf=4&ct=citation&cd=-1&hl=en
 
-  - title: Kolmogorov-Arnold Network for Online Reinforcement Learning
-    authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Junior Costa de Jesus, Ricardo Bedin Grando, Ayanori Yorozu, Akihisa Ohya
-    conference_short: ICCAS
-    conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2408.04841
-    notes: Early Accept
-    image: ./assets/img/teaser_iccas3.png
-    code: https://github.com/victorkich/Kolmogorov-PPO
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:eU9drjEibU4J:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF93fo:AFWwaeYAAAAAZsV7xfqGy0g4DvwNDerotRSdVs8&scisig=AFWwaeYAAAAAZsV7xZx8EaGcXRb4-L6w5N1kSSY&scisf=4&ct=citation&cd=-1&hl=en
-
   - title: Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations
     authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Ricardo Grando, Ayanori Yorozu, Akihisa Ohya
     conference_short: RO-MAN
@@ -50,6 +40,14 @@ main:
     image: ./assets/img/teaser_roman.png
     code: https://github.com/victorkich/YamaS
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:d-msAwD2FSMJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF7U40:AFWwaeYAAAAAZsV9S41unniXxEHgskfdurR8lfs&scisig=AFWwaeYAAAAAZsV9Syj87IYtwd5PkcKNp0I-36U&scisf=4&ct=citation&cd=-1&hl=en
+
+  - title: Image-based Mapless Navigation of a Hybrid Aerial-Underwater Vehicle using Prioritized Deep Reinforcement Learning
+    authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Ricardo Bedin Grando, Rodrigo da Silva Guerra, Paulo Lilles Jorge Drews
+    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2024.
+    conference_short: JIRS
+    notes: Early Accept
+    code: https://github.com/dranaju/cuprl_navigation
+    image: ./assets/img/teaser_jint5.png
 
   - title: Parallel Deep Reinforcement Learning for Hybrid Mobile Robots
     authors: Ricardo Grando, Raul Steinmetz, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Rodrigo da Silva Guerra, Paulo L. J. Drews-Jr
@@ -68,6 +66,38 @@ main:
     notes: Early Accept
     image: ./assets/img/teaser_case.png
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FsgtO4oaiYwJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF7OwQ:AFWwaeYAAAAAZsV9IwTVCXvY2h4qECB69jMQJKk&scisig=AFWwaeYAAAAAZsV9I1Sazg9GIKa5Dbn0jX9m1i4&scisf=4&ct=citation&cd=-1&hl=en
+
+  - title: Precision and Adaptability of YOLOv5 and YOLOv8 in Dynamic Robotic Environments
+    authors: Victor Augusto Kich, Muhammad A. Muttaqien, Junya Toyama, Ryutaro Miyoshi, Yosuke Ida, Akihisa Ohya, Hisashi Date
+    conference_short: CIS
+    conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2406.00315
+    notes: Oral Presentation
+    image: ./assets/img/teaser_cisram1.png
+    code: https://github.com/victorkich/BGBox-TsukubaChallenge
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GYlyZ5DQ4WAJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF9QRM:AFWwaeYAAAAAZsV7WRO7uYra2eD9p_EwIm1JUqQ&scisig=AFWwaeYAAAAAZsV7WQdH2S2ERUotzqb-MMWLh9U&scisf=4&ct=citation&cd=-1&hl=en
+
+  - title: "From Seedling to Harvest: The GrowingSoy Dataset for Weed Detection in Soy Crops via Instance Segmentation"
+    authors: Raul Steinmetz, Victor Augusto Kich, Henrique Krever, Joao Davi Rigo Mazzarolo, Ricardo Grando, Vinicius Marini, Celio Trois, Ard Nieuwenhuizen
+    conference_short: CIS
+    conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2406.00313
+    notes: Oral Presentation
+    image: ./assets/img/teaser_cisram2.png
+    video: https://www.youtube.com/watch?v=Ir0vwtAk8Tc
+    code: https://github.com/raulsteinmetz/soy-segmentation
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xEce_awpohMJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6gQo:AFWwaeYAAAAAZsV8mQrx4fdLjJxyU86C8XVbiUc&scisig=AFWwaeYAAAAAZsV8mSOemE-mWDJBaS_UJhKMubQ&scisf=4&ct=citation&cd=-1&hl=en
+
+  - title: "Delta robot control by learning systems: Harnessing the power of deep reinforcement learning algorithms"
+    authors: Matheus dos Santos Lima, Victor Augusto Kich, Raul Steinmetz, Daniel Fernando Tello Gamarra
+    conference: Journal of Intelligent \& Fuzzy Systems <strong>(JIFS)</strong>, 2024.
+    pdf: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs232795
+    notes: Published
+    image: ./assets/img/teaser_jifs1.png
+    video: https://www.youtube.com/watch?v=bcsaFMdTegg
+    code: https://github.com/victorkich/DeltaRobot-DeepRL
+    conference_short: JIFS
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UiS_CVOyGYkJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6tRc:AFWwaeYAAAAAZsV8rRd4xxwal7TQVz_ABZZeu18&scisig=AFWwaeYAAAAAZsV8rUiaXgz_ZiGaxTtHvhhZlYA&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: "DoCRL: Double Critic Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition"
     authors: Ricardo B Grando, Junior C De Jesus, Victor Augusto Kich, Alisson H Kolling, Matheus G Mateus, Rodrigo S Guerra, Paulo LJ Drews
@@ -110,70 +140,23 @@ main:
     code: https://github.com/jajaguto/jubileo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6lfTyTn_hY8J:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6p3A:AFWwaeYAAAAAZsV8v3D2iAHkN50C-wRm59QTpPA&scisig=AFWwaeYAAAAAZsV8v8c3jGQm1rT4fXqfoq58m-k&scisf=4&ct=citation&cd=-1&hl=en
 
-  - title: "Delta robot control by learning systems: Harnessing the power of deep reinforcement learning algorithms"
-    authors: Matheus dos Santos Lima, Victor Augusto Kich, Raul Steinmetz, Daniel Fernando Tello Gamarra
-    conference: Journal of Intelligent \& Fuzzy Systems <strong>(JIFS)</strong>, 2024.
-    pdf: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs232795
+  - title: Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots
+    authors: Linda D de Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Raul Steinmetz, Emerson C da Silva, Ricardo Bedin Grando, Anselmo Rafael Cukla, Daniel Fernando Tello Gamarra
+    conference: Intelligent Systems Design and Applications <strong>(ISDA)</strong>, 2023.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-35507-3_16
     notes: Published
-    image: ./assets/img/teaser_jifs1.png
-    video: https://www.youtube.com/watch?v=bcsaFMdTegg
-    code: https://github.com/victorkich/DeltaRobot-DeepRL
-    conference_short: JIFS
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UiS_CVOyGYkJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6tRc:AFWwaeYAAAAAZsV8rRd4xxwal7TQVz_ABZZeu18&scisig=AFWwaeYAAAAAZsV8rUiaXgz_ZiGaxTtHvhhZlYA&scisf=4&ct=citation&cd=-1&hl=en
+    conference_short: ISDA
+    image: ./assets/img/teaser_isda.png
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qAZ8MHdrKNQJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF8ZqQ:AFWwaeYAAAAAZsV6fqQb3z8HQHuQCQQMg1mm5QA&scisig=AFWwaeYAAAAAZsV6fluaWu-Sn787TB5NgZfU0as&scisf=4&ct=citation&cd=-1&hl=en
 
-  - title: "From Seedling to Harvest: The GrowingSoy Dataset for Weed Detection in Soy Crops via Instance Segmentation"
-    authors: Raul Steinmetz, Victor Augusto Kich, Henrique Krever, Joao Davi Rigo Mazzarolo, Ricardo Grando, Vinicius Marini, Celio Trois, Ard Nieuwenhuizen
-    conference_short: CIS
-    conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2406.00313
-    notes: Oral Presentation
-    image: ./assets/img/teaser_cisram2.png
-    video: https://www.youtube.com/watch?v=Ir0vwtAk8Tc
-    code: https://github.com/raulsteinmetz/soy-segmentation
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xEce_awpohMJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6gQo:AFWwaeYAAAAAZsV8mQrx4fdLjJxyU86C8XVbiUc&scisig=AFWwaeYAAAAAZsV8mSOemE-mWDJBaS_UJhKMubQ&scisf=4&ct=citation&cd=-1&hl=en
-
-  - title: Antagonistic Torsion Spiral Springs Variable Stiffness Actuator - ATOSS VSA
-    authors: David Roy Richards, Victor Augusto Kich, Rodrigo da Silva Guerra
-    conference: III Brazilian Humanoid Robot Workshop <strong>(BRAHUR)</strong>, 2020.
-    pdf: https://web.archive.org/web/20200815111131id_/http://www.acso.uneb.br/brahurbrasero2020/uploads/Main/BRAHUR__BRASERO_2020_paper_23.pdf
-    notes: Oral Presentation
-    image: ./assets/img/teaser_brahur.png
-    conference_short: BRAHUR
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TldAvFWgnPAJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF1Vn4:AFWwaeYAAAAAZsVzTn7Keycsrx01VG768snphvw&scisig=AFWwaeYAAAAAZsVzTtAtMrUST52NoNl3PLBFN2M&scisf=4&ct=citation&cd=-1&hl=en
-
-  - title: Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition
-    authors: Ricardo B Grando, Junior C de Jesus, Victor Augusto Kich, Alisson H Kolling, Nicolas P Bortoluzzi, Pedro M Pinheiro, Armando A Neto, Paulo LJ Drews
-    conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9561188
-    notes: Oral Presentation
-    image: ./assets/img/teaser_icra.png
-    code: https://github.com/ricardoGrando/hydrone_deep_rl_icra
-    video: https://www.youtube.com/watch?v=EGY3xldWCdA
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:C_b09fO8qUsJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6miI:AFWwaeYAAAAAZsV8giJcz-TrLhCrmQqT2E5L_vo&scisig=AFWwaeYAAAAAZsV8gu8snPAKAgYX9-bYOx8ii-E&scisf=4&ct=citation&cd=-1&hl=en
-
-  - title: Soft Actor-Critic for Navigation of Mobile Robots
-    authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Ricardo Bedin Grando, Marco Antonio de Souza Leite Cuadros, Daniel Fernando Tello Gamarra
-    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2021.
-    volume: 102
-    number: 2
-    pages: 1--11
-    pdf: https://link.springer.com/article/10.1007/s10846-021-01367-5
-    image: ./assets/img/teaser_jint2.png
-    notes: Published
-    conference_short: JIRS
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Iu89axknarcJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXFo_mE:AFWwaeYAAAAAZsVu5mF3IIsYp4-YkgUZTcnsQMs&scisig=AFWwaeYAAAAAZsVu5kiRCuH291QxVvNnnw8RfPI&scisf=4&ct=citation&cd=-1&hl=en
-
-  - title: Deep Reinforcement Learning Using a Low-Dimensional Observation Filter for Visual Complex Video Game Playing
-    authors: Victor Augusto Kich, Junior Costa de Jesus, Ricardo Bedin Grando, Alisson Henrique Kolling, Gabriel Vinicius Heisler, Rodrigo da Silva Guerra
-    conference_short: SBGames
-    conference: Brazilian Symposium on Computer Games and Digital Entertainment <strong>(SBGames)</strong>, 2021.
-    pdf: https://www.sbgames.org/proceedings2021/ComputacaoShort/218372.pdf
-    notes: Oral Presentation
-    image: ./assets/img/teaser_sbgames.png
-    video: https://www.youtube.com/watch?v=bKdMBKu68QU
-    code: https://github.com/victorkich/Neon-Drive-DRL
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ADxHloYuWhgJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6dwY:AFWwaeYAAAAAZsV8bwZfO206_BdKOuukulqhPmA&scisig=AFWwaeYAAAAAZsV8b2u4C-6KpXPn6EE2IiCiLik&scisf=4&ct=citation&cd=-1&hl=en
+  - title: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots
+    authors: Victor Augusto Kich
+    conference_short: Thesis
+    conference: Federal University of Santa Maria Repository, 2023.
+    notes: "Undergraduate Thesis, in Portuguese"
+    pdf: https://repositorio.ufsm.br/handle/1/28310
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rdqIfjmpnCoJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6Vbo:AFWwaeYAAAAAZsV8TbqLDJ_OKvOk-Wirh3yfASc&scisig=AFWwaeYAAAAAZsV8TV_cUrpNMa9nm-ljn83o07o&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/teaser_tcc.png
 
   - title: Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles
     authors: Ricardo Bedin Grando, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Paulo Lilles Jorge Drews-Jr
@@ -250,20 +233,45 @@ main:
     image: ./assets/img/teaser_humanoids.png
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CoXUmD_5WdYJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF_jvs:AFWwaeYAAAAAZsV5lvu0zRWH0IqXW1wQ0Z9xm4o&scisig=AFWwaeYAAAAAZsV5lg4UeHzYAcF4K498pX0bHl0&scisf=4&ct=citation&cd=-1&hl=en
 
-  - title: Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots
-    authors: Linda D de Moraes, Victor Augusto Kich, Alisson Henrique Kolling, Jair Augusto Bottega, Raul Steinmetz, Emerson C da Silva, Ricardo Bedin Grando, Anselmo Rafael Cukla, Daniel Fernando Tello Gamarra
-    conference: Intelligent Systems Design and Applications <strong>(ISDA)</strong>, 2023.
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-35507-3_16
-    notes: Published
-    conference_short: ISDA
-    image: ./assets/img/teaser_isda.png
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qAZ8MHdrKNQJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF8ZqQ:AFWwaeYAAAAAZsV6fqQb3z8HQHuQCQQMg1mm5QA&scisig=AFWwaeYAAAAAZsV6fluaWu-Sn787TB5NgZfU0as&scisf=4&ct=citation&cd=-1&hl=en
+  - title: Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition
+    authors: Ricardo B Grando, Junior C de Jesus, Victor Augusto Kich, Alisson H Kolling, Nicolas P Bortoluzzi, Pedro M Pinheiro, Armando A Neto, Paulo LJ Drews
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9561188
+    notes: Oral Presentation
+    image: ./assets/img/teaser_icra.png
+    code: https://github.com/ricardoGrando/hydrone_deep_rl_icra
+    video: https://www.youtube.com/watch?v=EGY3xldWCdA
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:C_b09fO8qUsJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6miI:AFWwaeYAAAAAZsV8giJcz-TrLhCrmQqT2E5L_vo&scisig=AFWwaeYAAAAAZsV8gu8snPAKAgYX9-bYOx8ii-E&scisf=4&ct=citation&cd=-1&hl=en
 
-  - title: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots
-    authors: Victor Augusto Kich
-    conference_short: Thesis
-    conference: Federal University of Santa Maria Repository, 2023.
-    notes: "Undergraduate Thesis, in Portuguese"
-    pdf: https://repositorio.ufsm.br/handle/1/28310
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rdqIfjmpnCoJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6Vbo:AFWwaeYAAAAAZsV8TbqLDJ_OKvOk-Wirh3yfASc&scisig=AFWwaeYAAAAAZsV8TV_cUrpNMa9nm-ljn83o07o&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/teaser_tcc.png
+  - title: Soft Actor-Critic for Navigation of Mobile Robots
+    authors: Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Ricardo Bedin Grando, Marco Antonio de Souza Leite Cuadros, Daniel Fernando Tello Gamarra
+    conference: Journal of Intelligent \& Robotic Systems <strong>(JIRS)</strong>, 2021.
+    volume: 102
+    number: 2
+    pages: 1--11
+    pdf: https://link.springer.com/article/10.1007/s10846-021-01367-5
+    image: ./assets/img/teaser_jint2.png
+    notes: Published
+    conference_short: JIRS
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Iu89axknarcJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXFo_mE:AFWwaeYAAAAAZsVu5mF3IIsYp4-YkgUZTcnsQMs&scisig=AFWwaeYAAAAAZsVu5kiRCuH291QxVvNnnw8RfPI&scisf=4&ct=citation&cd=-1&hl=en
+
+  - title: Deep Reinforcement Learning Using a Low-Dimensional Observation Filter for Visual Complex Video Game Playing
+    authors: Victor Augusto Kich, Junior Costa de Jesus, Ricardo Bedin Grando, Alisson Henrique Kolling, Gabriel Vinicius Heisler, Rodrigo da Silva Guerra
+    conference_short: SBGames
+    conference: Brazilian Symposium on Computer Games and Digital Entertainment <strong>(SBGames)</strong>, 2021.
+    pdf: https://www.sbgames.org/proceedings2021/ComputacaoShort/218372.pdf
+    notes: Oral Presentation
+    image: ./assets/img/teaser_sbgames.png
+    video: https://www.youtube.com/watch?v=bKdMBKu68QU
+    code: https://github.com/victorkich/Neon-Drive-DRL
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ADxHloYuWhgJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF6dwY:AFWwaeYAAAAAZsV8bwZfO206_BdKOuukulqhPmA&scisig=AFWwaeYAAAAAZsV8b2u4C-6KpXPn6EE2IiCiLik&scisf=4&ct=citation&cd=-1&hl=en
+
+  - title: Antagonistic Torsion Spiral Springs Variable Stiffness Actuator - ATOSS VSA
+    authors: David Roy Richards, Victor Augusto Kich, Rodrigo da Silva Guerra
+    conference: III Brazilian Humanoid Robot Workshop <strong>(BRAHUR)</strong>, 2020.
+    pdf: https://web.archive.org/web/20200815111131id_/http://www.acso.uneb.br/brahurbrasero2020/uploads/Main/BRAHUR__BRASERO_2020_paper_23.pdf
+    notes: Oral Presentation
+    image: ./assets/img/teaser_brahur.png
+    conference_short: BRAHUR
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TldAvFWgnPAJ:scholar.google.com/&output=citation&scisdr=ClE1WiAIEOSWwXF1Vn4:AFWwaeYAAAAAZsVzTn7Keycsrx01VG768snphvw&scisig=AFWwaeYAAAAAZsVzTtAtMrUST52NoNl3PLBFN2M&scisf=4&ct=citation&cd=-1&hl=en
