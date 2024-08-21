@@ -25,8 +25,10 @@ main:
     authors: Victor Augusto Kich, Muhammad A. Muttaqien, Junya Toyama, Ryutaro Miyoshi, Yosuke Ida, Akihisa Ohya, Hisashi Date
     conference_short: CIS
     conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2406.00315
+    pdf: https://arxiv.org/pdf/2406.00315
     notes: Oral Presentation
+    image: ./assets/img/teaser_cisram1.png
+    code: https://github.com/victorkich/BGBox-TsukubaChallenge
 
   - title: Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots
     authors: Victor Augusto Kich, Alisson Henrique Kolling, Junior Costa de Jesus, Gabriel Vinicius Heisler, Hiago Jacobs, Jair Augusto Bottega, Andre L. da S. Kelbouscas, Akihisa Ohya, Ricardo Bedin Grando, Paulo L. J. Drews-Jr, Daniel Fernando Tello Gamarra
@@ -34,6 +36,9 @@ main:
     conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.05744
     notes: Early Accept
+    image: ./assets/img/teaser_iccas1.png
+    code: https://github.com/victorkich/Parallel-Turtle-DRL
+    video: https://www.youtube.com/watch?v=cOVOijEwLUA
 
   - title: "CURLing the Dream: Contrastive Representations for World Modeling in Reinforcement Learning"
     authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Junior Costa de Jesus, Ricardo Bedin Grando, Ayanori Yorozu, Akihisa Ohya
@@ -41,6 +46,8 @@ main:
     conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.05781
     notes: Early Accept
+    code: https://github.com/victorkich/curled-dreamer
+    image: ./assets/img/teaser_iccas2.png
 
   - title: Kolmogorov-Arnold Network for Online Reinforcement Learning
     authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Junior Costa de Jesus, Ricardo Bedin Grando, Ayanori Yorozu, Akihisa Ohya
@@ -48,13 +55,17 @@ main:
     conference: 24th International Conference on Control, Automation and Systems <strong>(ICCAS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.04841
     notes: Early Accept
+    image: ./assets/img/teaser_iccas3.png
+    code: https://github.com/victorkich/Kolmogorov-PPO
 
   - title: Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations
     authors: Victor Augusto Kich, Jair Augusto Bottega, Raul Steinmetz, Ricardo Grando, Ayanori Yorozu, Akihisa Ohya
     conference_short: RO-MAN
     conference: 33rd IEEE International Conference on Robot and Human Interactive Communication <strong>(RO-MAN)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2405.16818
+    pdf: https://arxiv.org/pdf/2405.16818
     notes: Early Accept
+    image: ./assets/img/teaser_roman.png
+    code: https://github.com/victorkich/YamaS
 
   - title: Parallel Deep Reinforcement Learning for Hybrid Mobile Robots
     authors: Ricardo Grando, Raul Steinmetz, Junior Costa de Jesus, Victor Augusto Kich, Alisson Henrique Kolling, Rodrigo da Silva Guerra, Paulo L. J. Drews-Jr
@@ -65,7 +76,7 @@ main:
     authors: Ricardo Grando, Raul Steinmetz, Victor Augusto Kich, Alisson Henrique Kolling, Pablo Ezequiel Moraes Furik, Junior Costa de Jesus, Bruna de Vargas Guterres, Daniel Fernando Tello Gamarra, Rodrigo da Silva Guerra, Paulo Drews-Jr
     conference_short: CASE
     conference: 20th IEEE International Conference on Automation Science and Engineering <strong>(CASE)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2406.01952
+    pdf: https://arxiv.org/pdf/2406.01952
     notes: Early Accept
 
   - title: "DoCRL: Double Critic Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with Medium Transition"
@@ -105,7 +116,7 @@ main:
     authors: Raul Steinmetz, Victor Augusto Kich, Henrique Krever, Joao Davi Rigo Mazzarolo, Ricardo Grando, Vinicius Marini, Celio Trois, Ard Nieuwenhuizen
     conference_short: CIS
     conference: 11th IEEE International Conference on Cybernetics and Intelligent Systems <strong>(CIS)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2406.00313
+    pdf: https://arxiv.org/pdf/2406.00313
     notes: Oral Presentation
 
   - title: Antagonistic Torsion Spiral Springs Variable Stiffness Actuator - ATOSS VSA
