@@ -15,6 +15,7 @@ I am an M.Eng. student at the University of Tsukuba, specializing in deep reinfo
 
 ## News
 
+- **[Sep. 2024]** Our paper about High-Fidelity Procedural Simulations was presented at RO-MAN 2024, California, United States of America.
 - **[Aug. 2024]** Our paper about Kolmogorov-Arnold Networks was accepted to ICCAS 2024, Jeju, South Korea.
 - **[Aug. 2024]** Our paper about Parallel Distributional Deep Reinforcement Learning was accepted to ICCAS 2024, Jeju, South Korea.
 - **[Aug. 2024]** Our paper about Contrastive Representations for World Modeling was accepted to ICCAS 2024, Jeju, South Korea.
